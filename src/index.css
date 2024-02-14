@@ -1,13 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans:wght@400;700&family=Dela+Gothic+One&display=swap');
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  font-family: 'Balsamiq Sans',
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  font-family: 'Balsamiq Sans',
+    sans-serif;
 }
+
+.ff_dela {
+  font-family: 'Dela Gothic One',
+    sans-serif;
+}
+
+/* width */
+.about::-webkit-scrollbar {
+  width: 4px;
+}
+
+/* Track */
+.about::-webkit-scrollbar-track {
+  background: #FFAEAB;
+}
+
+/* Handle */
+.about::-webkit-scrollbar-thumb {
+  background: #DF4741;
+}
+
+/* Handle on hover */
+/* .about::-webkit-scrollbar-thumb:hover {
+  background: #;
+} */

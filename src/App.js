@@ -1,23 +1,32 @@
-import logo from './logo.svg';
 import './App.css';
+import Header from './components/Header';
+import NavBar from './components/NavBar';
+import About from './components/About';
+import Tokenomics from './components/Tokenomics';
+import Utility from './components/Utility';
+import Roadmap from './components/Roadmap';
+import Conclusion from './components/Conclusion';
+import Footer from './components/Footer';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <div className="bg-[url('./assets/images/png/redbgheader.png')] lg:bg-FullSize bg-cover bg-right pt-[20px]">
+        <NavBar />
+        <Header />
+      </div>
+      <About />
+      <div className="bg-[url('./assets/images/png/bgtoken.png')] lg:bg-FullSize bg-cover bg-left">
+        <Tokenomics />
+      </div>
+      <Utility />
+      <div className="bg-[url('./assets/images/png/roadmapbgblue.png')] lg:bg-FullSize bg-cover bg-left">
+        <Roadmap />
+      </div>
+      <div className="bg-[url('./assets/images/png/bgblueconclusion.png')] relative z-[3] lg:bg-FullSize bg-cover bg-left">
+        <Conclusion />
+      </div>
+      <Footer />
     </div>
   );
 }
