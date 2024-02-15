@@ -4,10 +4,10 @@ import { RightTick } from './Icons';
 
 const About = () => {
     return (
-        <div className='lg:pt-[102px] lg:pb-[83px] md:py-[60px] py-[25px]'>
+        <div className='lg:pt-[102px] lg:pb-[83px] md:pb-[60px] pb-[25px]'>
             <div className='container mx-auto xl:max-w-[1164px] xl:px-3 px-6'>
                 <div className='flex lg:flex-row flex-wrap lg:justify-between justify-center items-center flex-col-reverse'>
-                    <div className='lg:w-[40%] md:w-[70%] w-full flex items-center justify-center lg:mt-0 md:mt-12 mt-5'>
+                    <div className='lg:w-[40%] md:w-[70%] w-full flex items-center justify-center lg:mt-0 md:mt-12 mt-6'>
                         <img src={Trumpimg} alt="Trumpimg" className='max-w-[450px] w-full' />
                     </div>
                     <div className='lg:w-[50%] w-full flex flex-col justify-center'>
