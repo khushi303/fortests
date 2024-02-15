@@ -15,7 +15,7 @@ const Tokenomics = () => {
         <div id='Tokenomics' className='xl:pt-[163px] xl:pb-[204px] py-[150px]'>
             <div className='container mx-auto xl:max-w-[1164px] xl:px-3 px-6'>
                 <div className='flex flex-row flex-wrap'>
-                    <div data-aos="zoom-in" className='md:pt-[83px] xl:w-[50%] md:pb-[109px] w-full flex xl:justify-start items-center justify-center'>
+                    <div className='md:pt-[83px] xl:w-[50%] md:pb-[109px] w-full flex xl:justify-start items-center justify-center'>
                         <div className='max-w-[548px] w-full'>
                             <div className='max-w-[325px] w-full mx-auto relative'>
                                 <img src={Circleimg} alt="Circleimg" className='w-full mx-auto relative ' />
