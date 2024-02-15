@@ -18,7 +18,7 @@ const Tokenomics = () => {
                     <div className='md:pt-[83px] xl:w-[50%] md:pb-[109px] w-full flex xl:justify-start items-center justify-center'>
                         <div className='max-w-[548px] w-full'>
                             <div className='max-w-[325px] w-full mx-auto relative'>
-                                <img src={Circleimg} alt="Circleimg" className='w-full mx-auto relative ' />
+                                <img data-aos="zoom-in" src={Circleimg} alt="Circleimg" className='w-full mx-auto relative ' />
                                 <div className='max-w-[166px] w-full absolute top-[-69px] right-[-103px] md:block hidden'>
                                     <div className='flex justify-end'>
                                         <div className='pb-[9px]'>
@@ -126,24 +126,24 @@ const Tokenomics = () => {
                         </div>
                     </div>
                     <div data-aos="zoom-in" className='xl:w-[50%] w-full flex items-center xl:justify-end justify-center xl:mt-0 mt-[50px]'>
-                        <div className='max-w-[501px] bg-[#DF4741] w-full p-[20px] border border-solid border-[#FFFFFF80] rounded-[20px] shadow-[0px_5px_18px_0px_#00000061]'>
-                            <h3 className=' ff_dela sm:text-[40px] text-[30px] font-normal text-white leading-[100%] mb-[16px]'>Tokenomics</h3>
+                        <div className='max-w-[501px] bg-[#DF4741] group hover:bg-white transition-all duration-300 ease-linear w-full p-[20px] border border-solid border-[#FFFFFF80] rounded-[20px] shadow-[0px_5px_18px_0px_#00000061]'>
+                            <h3 className=' ff_dela sm:text-[40px] group-hover:text-[#DF4741] transition-all duration-300 ease-linear text-[30px] font-normal text-white leading-[100%] mb-[16px]'>Tokenomics</h3>
                             <div>
                                 <div className='flex gap-1 items-center'>
-                                    <p className='sm:max-w-[134px] max-w-[100px] w-full text-[16px] sm:text-[16px] font-normal leading-[153%] text-white'>Token Name:</p>
-                                    <p className='sm:text-[18px] text-[16px] font-bold leading-[150%] text-white'>TROLLMP</p>
+                                    <p className='sm:max-w-[134px] group-hover:text-[#DF4741] transition-all duration-300 ease-linear max-w-[100px] w-full text-[16px] sm:text-[16px] font-normal leading-[153%] text-white'>Token Name:</p>
+                                    <p className='sm:text-[18px] group-hover:text-[#DF4741] transition-all duration-300 ease-linear text-[16px] font-bold leading-[150%] text-white'>TROLLMP</p>
                                 </div>
                                 <div className='flex gap-1 sm:items-center items-start'>
-                                    <p className='sm:max-w-[134px] max-w-[100px] w-full text-[16px] sm:text-[16px] font-normal leading-[153%] text-white'>Token Symbol:</p>
-                                    <p className='sm:text-[18px] text-[16px] font-bold leading-[150%] text-white'>TRMP</p>
+                                    <p className='sm:max-w-[134px] group-hover:text-[#DF4741] transition-all duration-300 ease-linear max-w-[100px] w-full text-[16px] sm:text-[16px] font-normal leading-[153%] text-white'>Token Symbol:</p>
+                                    <p className='sm:text-[18px] group-hover:text-[#DF4741] transition-all duration-300 ease-linear text-[16px] font-bold leading-[150%] text-white'>TRMP</p>
                                 </div>
                                 <div className='flex gap-1 items-start'>
-                                    <p className='sm:max-w-[134px] max-w-[100px] w-full text-[16px] sm:text-[16px] font-normal leading-[153%] text-white'>Total Supply:</p>
-                                    <p className='text-[16px] font-normal leading-[150%] text-white'>Infinite jest supply, but let's keep it real – <span className='sm:text-[18px] text-[16px] font-bold'>142.53 Billion</span> </p>
+                                    <p className='sm:max-w-[134px] group-hover:text-[#DF4741] transition-all duration-300 ease-linear max-w-[100px] w-full text-[16px] sm:text-[16px] font-normal leading-[153%] text-white'>Total Supply:</p>
+                                    <p className='text-[16px] group-hover:text-[#DF4741] transition-all duration-300 ease-linear font-normal leading-[150%] text-white'>Infinite jest supply, but let's keep it real – <span className='sm:text-[18px] text-[16px] font-bold'>142.53 Billion</span> </p>
                                 </div>
                                 <div className='flex gap-1 items-start'>
-                                    <p className='sm:max-w-[134px] max-w-[100px] w-full text-[16px] sm:text-[16px] font-normal leading-[153%] text-white'>TRMP Token Type:</p>
-                                    <p className='sm:text-[18px] text-[16px] font-bold leading-[150%] text-white'>ERC-20</p>
+                                    <p className='sm:max-w-[134px] group-hover:text-[#DF4741] transition-all duration-300 ease-linear max-w-[100px] w-full text-[16px] sm:text-[16px] font-normal leading-[153%] text-white'>TRMP Token Type:</p>
+                                    <p className='sm:text-[18px] group-hover:text-[#DF4741] transition-all duration-300 ease-linear text-[16px] font-bold leading-[150%] text-white'>ERC-20</p>
                                 </div>
                             </div>
                         </div>
