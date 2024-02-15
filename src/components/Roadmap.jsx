@@ -159,5 +159,3 @@ const Roadmap = () => {
 }
 
 export default Roadmap
-
-// border: 2px solid #FFFFFF29
