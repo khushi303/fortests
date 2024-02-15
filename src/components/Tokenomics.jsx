@@ -15,7 +15,7 @@ const Tokenomics = () => {
         <div id='Tokenomics' className='xl:pt-[163px] xl:pb-[204px] py-[150px]'>
             <div className='container mx-auto xl:max-w-[1164px] xl:px-3 px-6'>
                 <div className='flex flex-row flex-wrap'>
-                    <div className='md:pt-[83px] xl:w-[50%] md:pb-[109px] w-full flex xl:justify-start items-center justify-center'>
+                    <div data-aos="zoom-in" className='md:pt-[83px] xl:w-[50%] md:pb-[109px] w-full flex xl:justify-start items-center justify-center'>
                         <div className='max-w-[548px] w-full'>
                             <div className='max-w-[325px] w-full mx-auto relative'>
                                 <img src={Circleimg} alt="Circleimg" className='w-full mx-auto relative ' />
@@ -125,7 +125,7 @@ const Tokenomics = () => {
                             </div>
                         </div>
                     </div>
-                    <div className='xl:w-[50%] w-full flex items-center xl:justify-end justify-center xl:mt-0 mt-[50px]'>
+                    <div data-aos="zoom-in" className='xl:w-[50%] w-full flex items-center xl:justify-end justify-center xl:mt-0 mt-[50px]'>
                         <div className='max-w-[501px] bg-[#DF4741] w-full p-[20px] border border-solid border-[#FFFFFF80] rounded-[20px] shadow-[0px_5px_18px_0px_#00000061]'>
                             <h3 className=' ff_dela sm:text-[40px] text-[30px] font-normal text-white leading-[100%] mb-[16px]'>Tokenomics</h3>
                             <div>

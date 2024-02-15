@@ -5,7 +5,7 @@ import { FootFacebook, FootDiscord, FootTelegram } from './Icons'
 const Footer = () => {
   return (
     <div className='bg-[#0F2440] relative z-[2] lg:pt-[260px] pt-[120px]'>
-      <div className='container mx-auto xl:max-w-[1164px] xl:px-3 px-6'>
+      <div data-aos="zoom-in" className='container mx-auto xl:max-w-[1164px] xl:px-3 px-6'>
         <div className='flex items-center justify-center flex-col'>
           <img src={Footerlogo} alt="Footerlogo" className='max-w-[114px] w-full mb-[16px] cursor-pointer' />
           <p className='max-w-[659px] text-[16px] font-normal text-center text-white leading-[152%] opacity-70'>In this tremendous whitepaper, we're introducing TROLLMP, the most fantastic token ever created! Just like nobody builds walls better than me, no body launches tokens like we do! </p>

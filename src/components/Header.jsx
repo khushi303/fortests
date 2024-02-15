@@ -7,7 +7,7 @@ const Header = () => {
         <div id='home' className='lg:pt-[118px] xl:pb-[173px] pb-[210px] md:pt-[60px] pt-[44px]'>
             <div className='container mx-auto xl:max-w-[1274px] xl:px-3 px-6 '>
                 <div className='flex flex-row flex-wrap justify-center xl:pl-[58px]'>
-                    <div className='lg:w-[50%] w-full'>
+                    <div data-aos="zoom-in" className='lg:w-[50%] w-full'>
                         <h2 className='xl:text-[50px] lg:text-[41px] sm:text-[50px] text-[31px] font-normal text-white leading-[135%] lg:text-start text-center ff_dela sm:mb-[16px] mb-[12px]'>Unlock the Magic of <span className='xl:text-[64px] lg:text-[50px] sm:text-[64px] text-[40px]'>TROLLMP</span></h2>
                         <p className='text-[16px] font-normal text-white lg:text-start text-center leading-[151%] lg:mb-[34px] sm:mb-[25px] mb-[16px] opacity-70 lg:max-w-[558px]'>We're introducing TROLLMP, the most fantastic token ever created! Just like nobody builds walls better than me, no body launches tokens like we do.</p>
                         <button className=' bg-white border border-solid border-[#0F2440] py-[12px] px-[24px] flex items-center justify-center text-[16px] leading-[109%] max-lg:mx-auto font-bold sm:gap-[10px] gap-[7px] text-black rounded-[107px] shadow-[3px_3px_0px_0px_#0F2440] hover:shadow-none transition-all duration-300 ease-linear hover:bg-[#0F2440] hover:text-white'>Get Started</button>
@@ -23,7 +23,7 @@ const Header = () => {
                             </a>
                         </div>
                     </div>
-                    <div className='lg:w-[50%] md:w-[84%] lg:mt-0 sm:mt-[45px] mt-[30px] sm:w-[90%] w-full flex items-center justify-center relative'>
+                    <div data-aos="zoom-in" className='lg:w-[50%] md:w-[84%] lg:mt-0 sm:mt-[45px] mt-[30px] sm:w-[90%] w-full flex items-center justify-center relative'>
                         <div className='max-w-[355px] w-full '>
                             <img src={Headerimg1} alt="Headerimg1" className='w-full' />
                         </div>
