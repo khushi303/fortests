@@ -40,11 +40,11 @@ export const RightTick = () => {
 
 export const RoadmapArrow = () => {
     return (
-        <svg className="md:w-[208px] sm:w-[120px] w-[90px] h-[40px] md:h-[75px]" height="75" viewBox="0 0 208 75" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <svg className="relative z-10 md:w-[208px] sm:w-[120px] w-[90px] h-[40px] md:h-[75px]" height="75" viewBox="0 0 208 75" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path d="M0 37C0 41.4183 3.58172 45 8 45C12.4183 45 16 41.4183 16 37C16 32.5817 12.4183 29 8 29C3.58172 29 0 32.5817 0 37ZM208 37L193 28.3397V45.6603L208 37ZM8 38.5H194.5V35.5H8V38.5Z" fill="white" />
-            <circle className="" cx="100.5" cy="37.5" r="36" fill="#DF4741" stroke="white" strokeWidth="3" strokeDasharray="6 6" />
-            <circle className="" cx="100.5" cy="37.5" r="27.5" fill="#DF4741" />
-            <circle className="" cx="101" cy="38" r="12" fill="white" />
+            <circle cx="100.5" cy="37.5" r="36" fill="#DF4741" stroke="white" strokeWidth="3" strokeDasharray="6 6" />
+            <circle cx="100.5" cy="37.5" r="27.5" fill="#DF4741" />
+            <circle cx="101" cy="38" r="12" fill="white" />
         </svg>
     )
 }
@@ -62,7 +62,7 @@ export const Righttickroad = () => {
 
 export const Roadmaparrow2 = () => {
     return (
-        <svg className="md:w-[208px] sm:w-[120px] w-[90px]" height="75" viewBox="0 0 208 75" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <svg className="relative z-10 md:w-[208px] sm:w-[120px] w-[90px]" height="75" viewBox="0 0 208 75" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path d="M208 37C208 41.4183 204.418 45 200 45C195.582 45 192 41.4183 192 37C192 32.5817 195.582 29 200 29C204.418 29 208 32.5817 208 37ZM0 37L15 28.3397V45.6603L0 37ZM200 38.5H13.5V35.5H200V38.5Z" fill="white" />
             <circle cx="100.5" cy="37.5" r="36" fill="#DF4741" stroke="white" strokeWidth="3" strokeDasharray="6 6" />
             <circle cx="100.5" cy="37.5" r="27.5" fill="#DF4741" />
