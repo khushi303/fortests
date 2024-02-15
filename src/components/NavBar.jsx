@@ -20,7 +20,7 @@ const NavBar = () => {
                         <li onClick={() => setNav(!nav)}><a href="#Roadmap" className='text-[16px] font-normal leading-[150%] text-black opacity-60 hover:opacity-100 transition-opacity duration-300 ease-linear'>Roadmap</a></li>
                         <li onClick={() => setNav(!nav)}><a href="#Ecosystem" className='text-[16px] font-normal leading-[150%] text-black opacity-60 hover:opacity-100 transition-opacity duration-300 ease-linear'>Ecosystem</a></li>
                         <li onClick={() => setNav(!nav)}><a href="#Conclusion" className='text-[16px] font-normal leading-[150%] text-black opacity-60 hover:opacity-100 transition-opacity duration-300 ease-linear'>Conclusion</a></li>
-                        <li className='lg:hidden'> <button className={`${nav ? "" : "max-lg:hidden"} bg-white border border-solid border-[#0F2440] py-[12px] px-[24px] flex items-center justify-center text-[16px] leading-[109%] font-bold sm:gap-[10px] gap-[7px] text-black rounded-[107px] shadow-[3px_3px_0px_0px_#0F2440]`}>Contact Us</button></li>
+                        <li className='lg:hidden'> <button className='bg-white border border-solid border-[#0F2440] py-[12px] px-[24px] flex items-center justify-center text-[16px] leading-[109%] font-bold sm:gap-[10px] gap-[7px] text-black rounded-[107px] shadow-[3px_3px_0px_0px_#0F2440]'>Contact Us</button></li>
                     </ul>
                     <div className='flex items-center gap-[16px]'>
                         <div onClick={() => setNav(!nav)} className='lg:hidden w-[28px] h-[20px] relative z-20 flex justify-between flex-col'>
