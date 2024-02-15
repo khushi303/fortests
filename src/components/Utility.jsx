@@ -51,10 +51,10 @@ const Utility = () => {
                 </div>
             </div>
             <div className='absolute top-[62px] right-0'>
-                <img src={Utilityimg2} alt="Utilityimg2" className='max-w-[306px] w-full max-xl:opacity-[0.08]' />
+                <img src={Utilityimg2} alt="Utilityimg2" className='max-w-[306px] xl:animate-pulse w-full max-xl:opacity-[0.08]' />
             </div>
-            <div className='absolute bottom-[-33px] left-0'>
-                <img src={Utilityimg1} alt="Utilityimg1" className='max-w-[306px] w-full max-xl:opacity-[0.08]' />
+            <div className='absolute bottom-[46px] left-0'>
+                <img src={Utilityimg1} alt="Utilityimg1" className='max-w-[306px] xl:animate-pulse w-full max-xl:opacity-[0.08]' />
             </div>
         </div>
     )

@@ -37,7 +37,20 @@ code {
   background: #DF4741;
 }
 
-/* Handle on hover */
-/* .about::-webkit-scrollbar-thumb:hover {
-  background: #;
-} */
+.anim_bounce {
+  animation: bounce1;
+}
+
+@keyframes mover {
+  0% {
+    transform: translateY(0px);
+  }
+
+  50% {
+    transform: translateY(5px);
+  }
+
+  100% {
+    transform: translateY(0px);
+  }
+}
