@@ -12,7 +12,7 @@ const Ecosystem = () => {
                 <p className='text-[16px] font-normal text-center text-black leading-[151%] max-w-[728px] mx-auto opacity-70'>In the TROLLMP ecosystem, everyone's a winner! From our dedicated meme creators to our passionate community members, we're building a platform where everyone can come together to laugh, meme, and vote. And let me tell you, folks,it's going to be tremendous!</p>
                 <div className='lg:mt-[70px] mt-[44px] flex justify-between flex-row flex-wrap'>
                     <div className='lg:w-[48%] w-full'>
-                        <div className='border-[4px] border-solid cursor-pointer border-[#0F244029] flex flex-row sm:gap-[30px] gap-[10px] shadow-[8px_8px_0px_0px_#DF4741] hover:bg-[#DF4741] bg-white hover:border-white group  hover:shadow-none transition-all duration-300 ease-linear sm:py-[21px] sm:pl-[33px] sm:pr-[30px] p-[14px] rounded-[20px]'>
+                        <div className='border-[4px] border-solid cursor-pointer border-[#0F244029] flex sm:gap-[30px] gap-[10px] shadow-[8px_8px_0px_0px_#DF4741] sm:flex-row flex-col max-sm:items-center hover:bg-[#DF4741] bg-white hover:border-white group  hover:shadow-none transition-all duration-300 ease-linear sm:py-[21px] sm:pl-[33px] sm:pr-[30px] p-[14px] rounded-[20px]'>
                             <div className='sm:max-w-[88px] sm:w-full w-[80px]'>
                                 <img src={Card1} alt="Card1" className='w-full h-[170px] object-cover' />
                             </div>
@@ -23,7 +23,7 @@ const Ecosystem = () => {
                         </div>
                     </div>
                     <div className='lg:w-[48%] w-full lg:mt-0 mt-[40px]'>
-                        <div className='border-[4px] border-solid cursor-pointer border-[#0F244029] flex flex-row sm:gap-[30px] gap-[10px] shadow-[8px_8px_0px_0px_#DF4741] sm:py-[21px] hover:bg-[#DF4741] bg-white hover:border-white group  hover:shadow-none transition-all duration-300 ease-linear sm:pl-[33px] sm:pr-[30px] p-[14px] rounded-[20px]'>
+                        <div className='border-[4px] border-solid cursor-pointer border-[#0F244029] flex sm:gap-[30px] gap-[10px] shadow-[8px_8px_0px_0px_#DF4741] sm:flex-row flex-col max-sm:items-center sm:py-[21px] hover:bg-[#DF4741] bg-white hover:border-white group  hover:shadow-none transition-all duration-300 ease-linear sm:pl-[33px] sm:pr-[30px] p-[14px] rounded-[20px]'>
                             <div className='max-w-[88px] w-full'>
                                 <img src={Card2} alt="Card1" className='w-full h-[170px] object-cover' />
                             </div>
@@ -34,7 +34,7 @@ const Ecosystem = () => {
                         </div>
                     </div>
                     <div className='lg:w-[48%] w-full mt-[40px]'>
-                        <div className='border-[4px] border-solid cursor-pointer border-[#0F244029] flex flex-row sm:gap-[30px] gap-[10px] shadow-[8px_8px_0px_0px_#DF4741] sm:py-[21px] hover:bg-[#DF4741] bg-white hover:border-white group hover:shadow-none transition-all duration-300 ease-linear sm:pl-[33px] sm:pr-[30px] p-[14px] rounded-[20px]'>
+                        <div className='border-[4px] border-solid cursor-pointer border-[#0F244029] flex sm:gap-[30px] gap-[10px] shadow-[8px_8px_0px_0px_#DF4741] sm:py-[21px] sm:flex-row flex-col max-sm:items-center hover:bg-[#DF4741] bg-white hover:border-white group hover:shadow-none transition-all duration-300 ease-linear sm:pl-[33px] sm:pr-[30px] p-[14px] rounded-[20px]'>
                             <div className='max-w-[88px] w-full'>
                                 <img src={Card3} alt="Card1" className='w-full h-[170px] object-cover' />
                             </div>
@@ -45,7 +45,7 @@ const Ecosystem = () => {
                         </div>
                     </div>
                     <div className='lg:w-[48%] w-full mt-[40px]'>
-                        <div className='border-[4px] border-solid cursor-pointer border-[#0F244029] flex flex-row gap-[10px] shadow-[8px_8px_0px_0px_#DF4741] sm:py-[21px] hover:bg-[#DF4741] bg-white hover:border-white group  hover:shadow-none transition-all duration-300 ease-linear pl-[8px] sm:pr-[30px] py-[14px] pr-[14px] rounded-[20px]'>
+                        <div className='border-[4px] border-solid cursor-pointer border-[#0F244029] flex sm:flex-row flex-col max-sm:items-center gap-[10px] shadow-[8px_8px_0px_0px_#DF4741] sm:py-[21px] hover:bg-[#DF4741] bg-white hover:border-white group  hover:shadow-none transition-all duration-300 ease-linear sm:pl-[8px] sm:pr-[30px] p-[14px] rounded-[20px]'>
                             <div className='max-w-[133px] w-full'>
                                 <img src={Card4} alt="Card1" className='w-full h-[170px] object-cover' />
                             </div>
