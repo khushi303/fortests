@@ -17,36 +17,36 @@ const Roadmap = () => {
                         <div className='lg:relative absolute z-[2] top-0 sm:left-0 left-[-12px]'>
                             <RoadmapArrow />
                         </div>
-                        <div className='sm:p-[30px] p-[15px] lg:w-[34%] w-full border max-w-[385px] lg:translate-y-[-67px] lg:mt-0 mt-6 border-solid border-[#FFFFFF29] rounded-[10px] bg-[#0F2440] shadow-[8px_8px_0px_0px_#DF4741]'>
-                            <h2 data-aos="fade-down" className='lg:text-[26px] text-[20px] font-normal text-white leading-[145%] ff_dela'>Launchpad Ignition</h2>
+                        <div className='sm:p-[30px] cursor-pointer p-[15px] group hover:bg-white transition-all duration-300 ease-linear lg:w-[34%] w-full border max-w-[385px] lg:translate-y-[-67px] lg:mt-0 mt-6 border-solid border-[#FFFFFF29] rounded-[10px] bg-[#0F2440] shadow-[8px_8px_0px_0px_#DF4741]'>
+                            <h2 data-aos="fade-down" className='lg:text-[26px] group-hover:text-[#0F2440] transition-all duration-300 ease-linear text-[20px] font-normal text-white leading-[145%] ff_dela'>Launchpad Ignition</h2>
                             <div data-aos="fade-down" className='flex items-start gap-[10px] mt-[15px]'>
                                 <Righttickroad />
-                                <p className='sm:text-[20px] text-[16] text-white font-normal leading-[120%]'>Create TROLLMP on Ethereum.</p>
+                                <p className='sm:text-[20px] text-[16px] group-hover:text-[#0F2440] transition-all duration-300 ease-linear text-white font-normal leading-[120%]'>Create TROLLMP on Ethereum.</p>
                             </div>
                             <div data-aos="fade-down" className='mt-[12px] flex items-start gap-[10px]'>
                                 <Righttickroad />
-                                <p className='sm:text-[20px] text-[16] text-white font-normal leading-[120%]'>Build a strong community.</p>
+                                <p className='sm:text-[20px] text-[16px] group-hover:text-[#0F2440] transition-all duration-300 ease-linear text-white font-normal leading-[120%]'>Build a strong community.</p>
                             </div>
                             <div data-aos="fade-down" className='mt-[12px] flex items-start gap-[10px]'>
                                 <Righttickroad />
-                                <p className='sm:text-[20px] text-[16] text-white font-normal leading-[120%]'>Conduct a Spacedrop event.</p>
+                                <p className='sm:text-[20px] text-[16px] group-hover:text-[#0F2440] transition-all duration-300 ease-linear text-white font-normal leading-[120%]'>Conduct a Spacedrop event.</p>
                             </div>
                         </div>
                     </div>
                     <div className='flex lg:flex-row flex-col-reverse flex-wrap relative justify-between lg:mt-[80px] mt-[54px] lg:pl-0 md:pl-[260px] sm:pl-[160px] pl-[87px]'>
-                        <div className='sm:p-[30px] p-[15px]  lg:w-[34%] w-full border lg:translate-y-[-67px] max-w-[382px] lg:mt-0 mt-6  border-solid border-[#FFFFFF29] rounded-[10px] bg-[#0F2440] shadow-[8px_8px_0px_0px_#DF4741]'>
-                            <h2 data-aos="fade-down" className='lg:text-[26px]  text-[20px] font-normal text-white leading-[145%] ff_dela'>Lunar Liftoff</h2>
+                        <div className='sm:p-[30px] cursor-pointer p-[15px] group hover:bg-white transition-all duration-300 ease-linear lg:w-[34%] w-full border lg:translate-y-[-67px] max-w-[382px] lg:mt-0 mt-6  border-solid border-[#FFFFFF29] rounded-[10px] bg-[#0F2440] shadow-[8px_8px_0px_0px_#DF4741]'>
+                            <h2 data-aos="fade-down" className='lg:text-[26px] group-hover:text-[#0F2440] transition-all duration-300 ease-linear text-[20px] font-normal text-white leading-[145%] ff_dela'>Lunar Liftoff</h2>
                             <div data-aos="fade-down" className='flex items-start gap-[10px] mt-[15px]'>
                                 <Righttickroad />
-                                <p className='sm:text-[20px] text-[16] text-white font-normal leading-[120%]'>List on exchanges.</p>
+                                <p className='sm:text-[20px] text-[16px] group-hover:text-[#0F2440] transition-all duration-300 ease-linear text-white font-normal leading-[120%]'>List on exchanges.</p>
                             </div>
                             <div data-aos="fade-down" className='mt-[12px] flex items-start gap-[10px]'>
                                 <Righttickroad />
-                                <p className='sm:text-[20px] text-[16] text-white font-normal leading-[120%]'>Establish liquidity pools.</p>
+                                <p className='sm:text-[20px] text-[16px] group-hover:text-[#0F2440] transition-all duration-300 ease-linear text-white font-normal leading-[120%]'>Establish liquidity pools.</p>
                             </div>
                             <div data-aos="fade-down" className='mt-[12px] flex items-start gap-[10px]'>
                                 <Righttickroad />
-                                <p className='sm:text-[20px] text-[16] text-white font-normal leading-[120%]'>Launch a marketing campaign.</p>
+                                <p className='sm:text-[20px] text-[16px] group-hover:text-[#0F2440] transition-all duration-300 ease-linear text-white font-normal leading-[120%]'>Launch a marketing campaign.</p>
                             </div>
                         </div>
                         <div className='relative z-[2] lg:block hidden'>
@@ -72,36 +72,36 @@ const Roadmap = () => {
                         <div className='lg:relative absolute top-0 sm:left-0 left-[-12px] z-[2]'>
                             <RoadmapArrow />
                         </div>
-                        <div className='sm:p-[30px] p-[15px]  lg:w-[34%] w-full border lg:translate-y-[-67px] lg:mt-0 mt-6 max-w-[382px] border-solid border-[#FFFFFF29] rounded-[10px] bg-[#0F2440] shadow-[8px_8px_0px_0px_#DF4741]'>
-                            <h2 data-aos="fade-down" className='lg:text-[26px]  text-[20px] font-normal text-white leading-[145%] ff_dela'>Galactic Expansion</h2>
+                        <div className='sm:p-[30px] cursor-pointer p-[15px] group hover:bg-white transition-all duration-300 ease-linear lg:w-[34%] w-full border lg:translate-y-[-67px] lg:mt-0 mt-6 max-w-[382px] border-solid border-[#FFFFFF29] rounded-[10px] bg-[#0F2440] shadow-[8px_8px_0px_0px_#DF4741]'>
+                            <h2 data-aos="fade-down" className='lg:text-[26px] group-hover:text-[#0F2440] transition-all duration-300 ease-linear text-[20px] font-normal text-white leading-[145%] ff_dela'>Galactic Expansion</h2>
                             <div data-aos="fade-down" className='flex items-start gap-[10px] mt-[15px]'>
                                 <Righttickroad />
-                                <p className='sm:text-[20px] text-[16] text-white font-normal leading-[120%]'>Form partnerships.</p>
+                                <p className='sm:text-[20px] group-hover:text-[#0F2440] transition-all duration-300 ease-linear text-[16px] text-white font-normal leading-[120%]'>Form partnerships.</p>
                             </div>
                             <div data-aos="fade-down" className='mt-[12px] flex items-start gap-[10px]'>
                                 <Righttickroad />
-                                <p className='sm:text-[20px] text-[16] text-white font-normal leading-[120%]'>Grow the community..</p>
+                                <p className='sm:text-[20px] group-hover:text-[#0F2440] transition-all duration-300 ease-linear text-[16px] text-white font-normal leading-[120%]'>Grow the community..</p>
                             </div>
                             <div data-aos="fade-down" className='mt-[12px] flex items-start gap-[10px]'>
                                 <Righttickroad />
-                                <p className='sm:text-[20px] text-[16] text-white font-normal leading-[120%]'>Enhance platform features.</p>
+                                <p className='sm:text-[20px] group-hover:text-[#0F2440] transition-all duration-300 ease-linear text-[16px] text-white font-normal leading-[120%]'>Enhance platform features.</p>
                             </div>
                         </div>
                     </div>
                     <div className='flex lg:flex-row flex-col-reverse relative flex-wrap justify-between lg:mt-[92px] lg:pb-[80px] mt-[54px] pb-[54px] lg:pl-0 md:pl-[260px] sm:pl-[160px] pl-[87px]'>
-                        <div className='sm:p-[30px] p-[15px]  lg:w-[34%] w-full border lg:translate-y-[-79px] lg:mt-0 mt-6 max-w-[382px] border-solid border-[#FFFFFF29] rounded-[10px] bg-[#0F2440] shadow-[8px_8px_0px_0px_#DF4741]'>
-                            <h2 data-aos="fade-down" className='lg:text-[26px]  text-[20px] font-normal text-white leading-[145%] ff_dela'>Cosmic Domination</h2>
+                        <div className='sm:p-[30px] cursor-pointer p-[15px] group hover:bg-white transition-all duration-300 ease-linear lg:w-[34%] w-full border lg:translate-y-[-79px] lg:mt-0 mt-6 max-w-[382px] border-solid border-[#FFFFFF29] rounded-[10px] bg-[#0F2440] shadow-[8px_8px_0px_0px_#DF4741]'>
+                            <h2 data-aos="fade-down" className='lg:text-[26px] group-hover:text-[#0F2440] transition-all duration-300 ease-linear text-[20px] font-normal text-white leading-[145%] ff_dela'>Cosmic Domination</h2>
                             <div data-aos="fade-down" className='flex items-start gap-[10px] mt-[15px]'>
                                 <Righttickroad />
-                                <p className='sm:text-[20px] text-[16] text-white font-normal leading-[120%]'>Explore cross-chainmigration.</p>
+                                <p className='sm:text-[20px] text-[16px] group-hover:text-[#0F2440] transition-all duration-300 ease-linear text-white font-normal leading-[120%]'>Explore cross-chainmigration.</p>
                             </div>
                             <div data-aos="fade-down" className='mt-[12px] flex items-start gap-[10px]'>
                                 <Righttickroad />
-                                <p className='sm:text-[20px] text-[16] text-white font-normal leading-[120%]'>Focus on global adoption.</p>
+                                <p className='sm:text-[20px] text-[16px] group-hover:text-[#0F2440] transition-all duration-300 ease-linear text-white font-normal leading-[120%]'>Focus on global adoption.</p>
                             </div>
                             <div data-aos="fade-down" className='mt-[12px] flex items-start gap-[10px]'>
                                 <Righttickroad />
-                                <p className='sm:text-[20px] text-[16] text-white font-normal leading-[120%]'>Establish a decentralized governance structure.</p>
+                                <p className='sm:text-[20px] text-[16px] group-hover:text-[#0F2440] transition-all duration-300 ease-linear text-white font-normal leading-[120%]'>Establish a decentralized governance structure.</p>
                             </div>
                         </div>
                         <div className='lg:relative lg:block hidden top-0 sm:left-0 left-[-12px] z-[2]'>
@@ -129,27 +129,27 @@ const Roadmap = () => {
                     <div className='lg:relative z-[2] absolute top-0 sm:left-0 left-[-12px]'>
                         <RoadmapArrow />
                     </div>
-                    <div className='sm:p-[30px] p-[15px] max-w-[382px] lg:w-[34%] w-full border lg:mt-0 mt-6 lg:translate-y-[-115px] border-solid border-[#FFFFFF29] rounded-[10px] bg-[#0F2440] shadow-[8px_8px_0px_0px_#DF4741]'>
-                        <h2 data-aos="fade-down" className='sm:lg:text-[26px]  text-[20px] font-normal text-white leading-[145%] ff_dela'>Beyond theStars</h2>
+                    <div className='sm:p-[30px] p-[15px] cursor-pointer max-w-[382px] group lg:w-[34%] w-full border lg:mt-0 mt-6 lg:translate-y-[-115px] border-solid border-[#FFFFFF29] rounded-[10px] bg-[#0F2440] hover:bg-white transition-all duration-300 ease-linear shadow-[8px_8px_0px_0px_#DF4741]'>
+                        <h2 data-aos="fade-down" className='sm:lg:text-[26px] group-hover:text-[#0F2440] transition-all duration-300 ease-linear text-[20px] font-normal text-white leading-[145%] ff_dela'>Beyond the Stars</h2>
                         <div data-aos="fade-down" className='flex items-start gap-[10px] mt-[15px]'>
                             <Righttickroad />
-                            <p className='sm:text-[20px] text-[16] text-white font-normal leading-[120%]'>Form partnerships.</p>
+                            <p className='sm:text-[20px] text-[16px] group-hover:text-[#0F2440] transition-all duration-300 ease-linear text-white font-normal leading-[120%]'>Form partnerships.</p>
                         </div>
                         <div data-aos="fade-down" className='mt-[12px] flex items-start gap-[10px]'>
                             <Righttickroad />
-                            <p className='sm:text-[20px] text-[16] text-white font-normal leading-[120%]'>Drive further innovation.</p>
+                            <p className='sm:text-[20px] text-[16px] group-hover:text-[#0F2440] transition-all duration-300 ease-linear text-white font-normal leading-[120%]'>Drive further innovation.</p>
                         </div>
                         <div data-aos="fade-down" className='mt-[12px] flex items-start gap-[10px]'>
                             <Righttickroad />
-                            <p className='sm:text-[20px] text-[16] text-white font-normal leading-[120%]'>Host a galactic celebration.</p>
+                            <p className='sm:text-[20px] text-[16px] group-hover:text-[#0F2440] transition-all duration-300 ease-linear text-white font-normal leading-[120%]'>Host a galactic celebration.</p>
                         </div>
                         <div data-aos="fade-down" className='mt-[12px] flex items-start gap-[10px]'>
                             <Righttickroad />
-                            <p className='sm:text-[20px] text-[16] text-white font-normal leading-[120%]'>Secure TROLLMP's enduring legacy.</p>
+                            <p className='sm:text-[20px] text-[16px] group-hover:text-[#0F2440] transition-all duration-300 ease-linear text-white font-normal leading-[120%]'>Secure TROLLMP's enduring legacy.</p>
                         </div>
                         <div data-aos="fade-down" className='mt-[12px] flex items-start gap-[10px]'>
                             <Righttickroad />
-                            <p className='sm:text-[20px] text-[16] text-white font-normal leading-[120%]'>Enhance platform features.</p>
+                            <p className='sm:text-[20px] text-[16px] group-hover:text-[#0F2440] transition-all duration-300 ease-linear text-white font-normal leading-[120%]'>Enhance platform features.</p>
                         </div>
                     </div>
                 </div>
