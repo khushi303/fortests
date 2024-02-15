@@ -6,7 +6,7 @@ import Card4 from '../assets/images/png/ecocard4.png'
 
 const Ecosystem = () => {
     return (
-        <div className='lg:pt-[121px] sm:pt-[54px] pt-[30px] max-sm:mb-[-20px]'>
+        <div id='Ecosystem' className='lg:pt-[121px] sm:pt-[54px] pt-[30px] max-sm:mb-[-20px]'>
             <div className='container mx-auto xl:max-w-[1164px] xl:px-3 px-6'>
                 <h2 className='text-[40px] font-normal ff_dela leading-[121%] text-black text-center mb-[16px]'>Ecosystem</h2>
                 <p className='text-[16px] font-normal text-center text-black leading-[151%] max-w-[728px] mx-auto opacity-70'>In the TROLLMP ecosystem, everyone's a winner! From our dedicated meme creators to our passionate community members, we're building a platform where everyone can come together to laugh, meme, and vote. And let me tell you, folks,it's going to be tremendous!</p>

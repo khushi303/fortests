@@ -4,7 +4,7 @@ import Headerimg1 from '../assets/images/png/bgheader.png';
 
 const Header = () => {
     return (
-        <div className='lg:pt-[118px] xl:pb-[173px] pb-[210px] md:pt-[60px] pt-[44px]'>
+        <div id='home' className='lg:pt-[118px] xl:pb-[173px] pb-[210px] md:pt-[60px] pt-[44px]'>
             <div className='container mx-auto xl:max-w-[1274px] xl:px-3 px-6 '>
                 <div className='flex flex-row flex-wrap justify-center xl:pl-[58px]'>
                     <div className='lg:w-[50%] w-full'>

@@ -12,7 +12,7 @@ import Marketarrowshadow from '../assets/images/png/marketshadow.png';
 
 const Tokenomics = () => {
     return (
-        <div className='xl:pt-[163px] xl:pb-[204px] py-[150px]'>
+        <div id='Tokenomics' className='xl:pt-[163px] xl:pb-[204px] py-[150px]'>
             <div className='container mx-auto xl:max-w-[1164px] xl:px-3 px-6'>
                 <div className='flex flex-row flex-wrap'>
                     <div className='md:pt-[83px] xl:w-[50%] md:pb-[109px] w-full flex xl:justify-start items-center justify-center'>

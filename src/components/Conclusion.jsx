@@ -2,7 +2,7 @@ import React from 'react'
 
 const Conclusion = () => {
     return (
-        <div className='lg:pt-[190px] lg:pb-[215px] sm:py-[90px] py-[110px]'>
+        <div id='Conclusion' className='lg:pt-[190px] lg:pb-[215px] sm:py-[90px] py-[110px]'>
             <div className='container mx-auto xl:max-w-[1164px] xl:px-3 px-6'>
                 <h2 className='text-[40px] font-normal ff_dela text-center text-white leading-[121%] mb-[16px]'>Conclusion</h2>
                 <div>
