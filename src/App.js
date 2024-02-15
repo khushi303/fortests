@@ -61,7 +61,7 @@ function App() {
       <Footer />
       <div className='fixed bottom-5 right-5 z-20 cursor-pointer'>
         <div className={`${backToTop ? '' : 'hidden'} border-[2.2px] rounded-[50%] border-solid border-white bg-[#DF4741] sm:w-[50px] sm:h-[50px] w-[40px] h-[40px] cursor-pointer animate-[mover_2500ms_ease-in-out_infinite] flex items-center justify-center`} onClick={() => top()}>
-          <img src={BackToTop} alt="Backtotop" className='w-full sm:max-w-[30px] max-w-[20px]' />
+          <img src={BackToTop} alt="Backtotop" className='w-full sm:max-w-[20px] max-w-[15px]' />
         </div>
       </div>
     </div>
