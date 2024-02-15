@@ -17,7 +17,7 @@ const Roadmap = () => {
                         <div className='lg:relative absolute z-[2] top-0 sm:left-0 left-[-12px]'>
                             <RoadmapArrow />
                         </div>
-                        <div data-aos="zoom-in" className='sm:p-[30px] p-[15px] lg:w-[34%] w-full border max-w-[385px] lg:translate-y-[-67px] lg:mt-0 mt-6 border-solid border-[#FFFFFF29] rounded-[10px] bg-[#0F2440] shadow-[8px_8px_0px_0px_#DF4741]'>
+                        <div className='sm:p-[30px] p-[15px] lg:w-[34%] w-full border max-w-[385px] lg:translate-y-[-67px] lg:mt-0 mt-6 border-solid border-[#FFFFFF29] rounded-[10px] bg-[#0F2440] shadow-[8px_8px_0px_0px_#DF4741]'>
                             <h2 className='lg:text-[26px] text-[20px] font-normal text-white leading-[145%] ff_dela'>Launchpad Ignition</h2>
                             <div className='flex items-start gap-[10px] mt-[15px]'>
                                 <Righttickroad />
@@ -34,7 +34,7 @@ const Roadmap = () => {
                         </div>
                     </div>
                     <div className='flex lg:flex-row flex-col-reverse flex-wrap relative justify-between lg:mt-[80px] mt-[54px] lg:pl-0 md:pl-[260px] sm:pl-[160px] pl-[87px]'>
-                        <div data-aos="zoom-in" className='sm:p-[30px] p-[15px]  lg:w-[34%] w-full border lg:translate-y-[-67px] max-w-[382px] lg:mt-0 mt-6  border-solid border-[#FFFFFF29] rounded-[10px] bg-[#0F2440] shadow-[8px_8px_0px_0px_#DF4741]'>
+                        <div className='sm:p-[30px] p-[15px]  lg:w-[34%] w-full border lg:translate-y-[-67px] max-w-[382px] lg:mt-0 mt-6  border-solid border-[#FFFFFF29] rounded-[10px] bg-[#0F2440] shadow-[8px_8px_0px_0px_#DF4741]'>
                             <h2 className='lg:text-[26px]  text-[20px] font-normal text-white leading-[145%] ff_dela'>Lunar Liftoff</h2>
                             <div className='flex items-start gap-[10px] mt-[15px]'>
                                 <Righttickroad />
@@ -72,7 +72,7 @@ const Roadmap = () => {
                         <div className='lg:relative absolute top-0 sm:left-0 left-[-12px] z-[2]'>
                             <RoadmapArrow />
                         </div>
-                        <div data-aos="zoom-in" className='sm:p-[30px] p-[15px]  lg:w-[34%] w-full border lg:translate-y-[-67px] lg:mt-0 mt-6 max-w-[382px] border-solid border-[#FFFFFF29] rounded-[10px] bg-[#0F2440] shadow-[8px_8px_0px_0px_#DF4741]'>
+                        <div className='sm:p-[30px] p-[15px]  lg:w-[34%] w-full border lg:translate-y-[-67px] lg:mt-0 mt-6 max-w-[382px] border-solid border-[#FFFFFF29] rounded-[10px] bg-[#0F2440] shadow-[8px_8px_0px_0px_#DF4741]'>
                             <h2 className='lg:text-[26px]  text-[20px] font-normal text-white leading-[145%] ff_dela'>Galactic Expansion</h2>
                             <div className='flex items-start gap-[10px] mt-[15px]'>
                                 <Righttickroad />
@@ -89,7 +89,7 @@ const Roadmap = () => {
                         </div>
                     </div>
                     <div className='flex lg:flex-row flex-col-reverse relative flex-wrap justify-between lg:mt-[92px] lg:pb-[80px] mt-[54px] pb-[54px] lg:pl-0 md:pl-[260px] sm:pl-[160px] pl-[87px]'>
-                        <div data-aos="zoom-in" className='sm:p-[30px] p-[15px]  lg:w-[34%] w-full border lg:translate-y-[-79px] lg:mt-0 mt-6 max-w-[382px] border-solid border-[#FFFFFF29] rounded-[10px] bg-[#0F2440] shadow-[8px_8px_0px_0px_#DF4741]'>
+                        <div className='sm:p-[30px] p-[15px]  lg:w-[34%] w-full border lg:translate-y-[-79px] lg:mt-0 mt-6 max-w-[382px] border-solid border-[#FFFFFF29] rounded-[10px] bg-[#0F2440] shadow-[8px_8px_0px_0px_#DF4741]'>
                             <h2 className='lg:text-[26px]  text-[20px] font-normal text-white leading-[145%] ff_dela'>Cosmic Domination</h2>
                             <div className='flex items-start gap-[10px] mt-[15px]'>
                                 <Righttickroad />
@@ -129,7 +129,7 @@ const Roadmap = () => {
                     <div className='lg:relative z-[2] absolute top-0 sm:left-0 left-[-12px]'>
                         <RoadmapArrow />
                     </div>
-                    <div data-aos="zoom-in" className='sm:p-[30px] p-[15px] max-w-[382px] lg:w-[34%] w-full border lg:mt-0 mt-6 lg:translate-y-[-115px] border-solid border-[#FFFFFF29] rounded-[10px] bg-[#0F2440] shadow-[8px_8px_0px_0px_#DF4741]'>
+                    <div className='sm:p-[30px] p-[15px] max-w-[382px] lg:w-[34%] w-full border lg:mt-0 mt-6 lg:translate-y-[-115px] border-solid border-[#FFFFFF29] rounded-[10px] bg-[#0F2440] shadow-[8px_8px_0px_0px_#DF4741]'>
                         <h2 className='sm:lg:text-[26px]  text-[20px] font-normal text-white leading-[145%] ff_dela'>Beyond theStars</h2>
                         <div className='flex items-start gap-[10px] mt-[15px]'>
                             <Righttickroad />
