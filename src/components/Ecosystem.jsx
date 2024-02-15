@@ -7,9 +7,9 @@ import Card4 from '../assets/images/png/ecocard4.png'
 const Ecosystem = () => {
     return (
         <div id='Ecosystem' className='lg:pt-[121px] sm:pt-[54px] pt-[30px] max-sm:mb-[-20px]'>
-            <div className='container mx-auto xl:max-w-[1164px] xl:px-3 px-6'>
+            <div data-aos="zoom-in" className='container mx-auto xl:max-w-[1164px] xl:px-3 px-6'>
                 <h2 data-aos="zoom-in" className='text-[40px] font-normal ff_dela leading-[121%] text-black text-center mb-[16px]'>Ecosystem</h2>
-                <p data-aos="zoom-in" className='text-[16px] font-normal text-center text-black leading-[151%] max-w-[728px] mx-auto opacity-70'>In the TROLLMP ecosystem, everyone's a winner! From our dedicated meme creators to our passionate community members, we're building a platform where everyone can come together to laugh, meme, and vote. And let me tell you, folks,it's going to be tremendous!</p>
+                <p className='text-[16px] font-normal text-center text-black leading-[151%] max-w-[728px] mx-auto opacity-70'>In the TROLLMP ecosystem, everyone's a winner! From our dedicated meme creators to our passionate community members, we're building a platform where everyone can come together to laugh, meme, and vote. And let me tell you, folks,it's going to be tremendous!</p>
                 <div className='lg:mt-[70px] mt-[44px] flex justify-between flex-row flex-wrap'>
                     <div data-aos="zoom-in" className='lg:w-[48%] w-full'>
                         <div className='border-[4px] border-solid cursor-pointer border-[#0F244029] flex sm:gap-[30px] gap-[10px] shadow-[8px_8px_0px_0px_#DF4741] sm:flex-row flex-col max-sm:items-center hover:bg-[#DF4741] bg-white hover:border-white group  hover:shadow-none transition-all duration-300 ease-linear sm:py-[21px] sm:pl-[33px] sm:pr-[30px] p-[14px] rounded-[20px]'>
