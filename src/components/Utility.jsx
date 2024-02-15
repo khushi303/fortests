@@ -4,7 +4,7 @@ import Utilityimg1 from '../assets/images/png/utilityimg1.png'
 
 const Utility = () => {
     return (
-        <div className='lg:pt-[133px] lg:mb-[149px] md:py-[100px] sm:py-[60px] py-[44px] relative'>
+        <div className='lg:pt-[133px] lg:pb-[149px] md:py-[100px] sm:py-[60px] py-[44px] relative'>
             <div className='container mx-auto xl:max-w-[1164px] xl:px-3 px-6 relative z-10'>
                 <h2 className='text-[40px] font-normal text-black ff_dela text-center leading-[100%] mb-[16px]'>UTILITY</h2>
                 <p className='text-[16px] font-normal leading-[151%] text-black text-center mx-auto max-w-[728px] opacity-70'>Now, you might be wondering, what can I do with TROLLMP? Well, let me tell you, the possibilities are endless! You can use TROLLMP to vote on your favorite memes, tip your favorite creators, or even trade them on the open market. It's freedom, folks, freedom like you've never seen before!</p>
@@ -53,7 +53,7 @@ const Utility = () => {
             <div className='absolute top-[62px] right-0'>
                 <img src={Utilityimg2} alt="Utilityimg2" className='max-w-[306px] xl:animate-pulse w-full max-xl:opacity-[0.08]' />
             </div>
-            <div className='absolute bottom-[46px] left-0'>
+            <div className='absolute bottom-[90px] left-0'>
                 <img src={Utilityimg1} alt="Utilityimg1" className='max-w-[306px] xl:animate-pulse w-full max-xl:opacity-[0.08]' />
             </div>
         </div>
