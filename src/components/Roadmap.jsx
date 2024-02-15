@@ -18,16 +18,16 @@ const Roadmap = () => {
                             <RoadmapArrow />
                         </div>
                         <div className='sm:p-[30px] p-[15px] lg:w-[34%] w-full border max-w-[385px] lg:translate-y-[-67px] lg:mt-0 mt-6 border-solid border-[#FFFFFF29] rounded-[10px] bg-[#0F2440] shadow-[8px_8px_0px_0px_#DF4741]'>
-                            <h2 className='lg:text-[26px] text-[20px] font-normal text-white leading-[145%] ff_dela'>Launchpad Ignition</h2>
-                            <div className='flex items-start gap-[10px] mt-[15px]'>
+                            <h2 data-aos="fade-down" className='lg:text-[26px] text-[20px] font-normal text-white leading-[145%] ff_dela'>Launchpad Ignition</h2>
+                            <div data-aos="fade-down" className='flex items-start gap-[10px] mt-[15px]'>
                                 <Righttickroad />
                                 <p className='sm:text-[20px] text-[16] text-white font-normal leading-[120%]'>Create TROLLMP on Ethereum.</p>
                             </div>
-                            <div className='mt-[12px] flex items-start gap-[10px]'>
+                            <div data-aos="fade-down" className='mt-[12px] flex items-start gap-[10px]'>
                                 <Righttickroad />
                                 <p className='sm:text-[20px] text-[16] text-white font-normal leading-[120%]'>Build a strong community.</p>
                             </div>
-                            <div className='mt-[12px] flex items-start gap-[10px]'>
+                            <div data-aos="fade-down" className='mt-[12px] flex items-start gap-[10px]'>
                                 <Righttickroad />
                                 <p className='sm:text-[20px] text-[16] text-white font-normal leading-[120%]'>Conduct a Spacedrop event.</p>
                             </div>
@@ -35,16 +35,16 @@ const Roadmap = () => {
                     </div>
                     <div className='flex lg:flex-row flex-col-reverse flex-wrap relative justify-between lg:mt-[80px] mt-[54px] lg:pl-0 md:pl-[260px] sm:pl-[160px] pl-[87px]'>
                         <div className='sm:p-[30px] p-[15px]  lg:w-[34%] w-full border lg:translate-y-[-67px] max-w-[382px] lg:mt-0 mt-6  border-solid border-[#FFFFFF29] rounded-[10px] bg-[#0F2440] shadow-[8px_8px_0px_0px_#DF4741]'>
-                            <h2 className='lg:text-[26px]  text-[20px] font-normal text-white leading-[145%] ff_dela'>Lunar Liftoff</h2>
-                            <div className='flex items-start gap-[10px] mt-[15px]'>
+                            <h2 data-aos="fade-down" className='lg:text-[26px]  text-[20px] font-normal text-white leading-[145%] ff_dela'>Lunar Liftoff</h2>
+                            <div data-aos="fade-down" className='flex items-start gap-[10px] mt-[15px]'>
                                 <Righttickroad />
                                 <p className='sm:text-[20px] text-[16] text-white font-normal leading-[120%]'>List on exchanges.</p>
                             </div>
-                            <div className='mt-[12px] flex items-start gap-[10px]'>
+                            <div data-aos="fade-down" className='mt-[12px] flex items-start gap-[10px]'>
                                 <Righttickroad />
                                 <p className='sm:text-[20px] text-[16] text-white font-normal leading-[120%]'>Establish liquidity pools.</p>
                             </div>
-                            <div className='mt-[12px] flex items-start gap-[10px]'>
+                            <div data-aos="fade-down" className='mt-[12px] flex items-start gap-[10px]'>
                                 <Righttickroad />
                                 <p className='sm:text-[20px] text-[16] text-white font-normal leading-[120%]'>Launch a marketing campaign.</p>
                             </div>
@@ -73,16 +73,16 @@ const Roadmap = () => {
                             <RoadmapArrow />
                         </div>
                         <div className='sm:p-[30px] p-[15px]  lg:w-[34%] w-full border lg:translate-y-[-67px] lg:mt-0 mt-6 max-w-[382px] border-solid border-[#FFFFFF29] rounded-[10px] bg-[#0F2440] shadow-[8px_8px_0px_0px_#DF4741]'>
-                            <h2 className='lg:text-[26px]  text-[20px] font-normal text-white leading-[145%] ff_dela'>Galactic Expansion</h2>
-                            <div className='flex items-start gap-[10px] mt-[15px]'>
+                            <h2 data-aos="fade-down" className='lg:text-[26px]  text-[20px] font-normal text-white leading-[145%] ff_dela'>Galactic Expansion</h2>
+                            <div data-aos="fade-down" className='flex items-start gap-[10px] mt-[15px]'>
                                 <Righttickroad />
                                 <p className='sm:text-[20px] text-[16] text-white font-normal leading-[120%]'>Form partnerships.</p>
                             </div>
-                            <div className='mt-[12px] flex items-start gap-[10px]'>
+                            <div data-aos="fade-down" className='mt-[12px] flex items-start gap-[10px]'>
                                 <Righttickroad />
                                 <p className='sm:text-[20px] text-[16] text-white font-normal leading-[120%]'>Grow the community..</p>
                             </div>
-                            <div className='mt-[12px] flex items-start gap-[10px]'>
+                            <div data-aos="fade-down" className='mt-[12px] flex items-start gap-[10px]'>
                                 <Righttickroad />
                                 <p className='sm:text-[20px] text-[16] text-white font-normal leading-[120%]'>Enhance platform features.</p>
                             </div>
@@ -90,16 +90,16 @@ const Roadmap = () => {
                     </div>
                     <div className='flex lg:flex-row flex-col-reverse relative flex-wrap justify-between lg:mt-[92px] lg:pb-[80px] mt-[54px] pb-[54px] lg:pl-0 md:pl-[260px] sm:pl-[160px] pl-[87px]'>
                         <div className='sm:p-[30px] p-[15px]  lg:w-[34%] w-full border lg:translate-y-[-79px] lg:mt-0 mt-6 max-w-[382px] border-solid border-[#FFFFFF29] rounded-[10px] bg-[#0F2440] shadow-[8px_8px_0px_0px_#DF4741]'>
-                            <h2 className='lg:text-[26px]  text-[20px] font-normal text-white leading-[145%] ff_dela'>Cosmic Domination</h2>
-                            <div className='flex items-start gap-[10px] mt-[15px]'>
+                            <h2 data-aos="fade-down" className='lg:text-[26px]  text-[20px] font-normal text-white leading-[145%] ff_dela'>Cosmic Domination</h2>
+                            <div data-aos="fade-down" className='flex items-start gap-[10px] mt-[15px]'>
                                 <Righttickroad />
                                 <p className='sm:text-[20px] text-[16] text-white font-normal leading-[120%]'>Explore cross-chainmigration.</p>
                             </div>
-                            <div className='mt-[12px] flex items-start gap-[10px]'>
+                            <div data-aos="fade-down" className='mt-[12px] flex items-start gap-[10px]'>
                                 <Righttickroad />
                                 <p className='sm:text-[20px] text-[16] text-white font-normal leading-[120%]'>Focus on global adoption.</p>
                             </div>
-                            <div className='mt-[12px] flex items-start gap-[10px]'>
+                            <div data-aos="fade-down" className='mt-[12px] flex items-start gap-[10px]'>
                                 <Righttickroad />
                                 <p className='sm:text-[20px] text-[16] text-white font-normal leading-[120%]'>Establish a decentralized governance structure.</p>
                             </div>
@@ -130,24 +130,24 @@ const Roadmap = () => {
                         <RoadmapArrow />
                     </div>
                     <div className='sm:p-[30px] p-[15px] max-w-[382px] lg:w-[34%] w-full border lg:mt-0 mt-6 lg:translate-y-[-115px] border-solid border-[#FFFFFF29] rounded-[10px] bg-[#0F2440] shadow-[8px_8px_0px_0px_#DF4741]'>
-                        <h2 className='sm:lg:text-[26px]  text-[20px] font-normal text-white leading-[145%] ff_dela'>Beyond theStars</h2>
-                        <div className='flex items-start gap-[10px] mt-[15px]'>
+                        <h2 data-aos="fade-down" className='sm:lg:text-[26px]  text-[20px] font-normal text-white leading-[145%] ff_dela'>Beyond theStars</h2>
+                        <div data-aos="fade-down" className='flex items-start gap-[10px] mt-[15px]'>
                             <Righttickroad />
                             <p className='sm:text-[20px] text-[16] text-white font-normal leading-[120%]'>Form partnerships.</p>
                         </div>
-                        <div className='mt-[12px] flex items-start gap-[10px]'>
+                        <div data-aos="fade-down" className='mt-[12px] flex items-start gap-[10px]'>
                             <Righttickroad />
                             <p className='sm:text-[20px] text-[16] text-white font-normal leading-[120%]'>Drive further innovation.</p>
                         </div>
-                        <div className='mt-[12px] flex items-start gap-[10px]'>
+                        <div data-aos="fade-down" className='mt-[12px] flex items-start gap-[10px]'>
                             <Righttickroad />
                             <p className='sm:text-[20px] text-[16] text-white font-normal leading-[120%]'>Host a galactic celebration.</p>
                         </div>
-                        <div className='mt-[12px] flex items-start gap-[10px]'>
+                        <div data-aos="fade-down" className='mt-[12px] flex items-start gap-[10px]'>
                             <Righttickroad />
                             <p className='sm:text-[20px] text-[16] text-white font-normal leading-[120%]'>Secure TROLLMP's enduring legacy.</p>
                         </div>
-                        <div className='mt-[12px] flex items-start gap-[10px]'>
+                        <div data-aos="fade-down" className='mt-[12px] flex items-start gap-[10px]'>
                             <Righttickroad />
                             <p className='sm:text-[20px] text-[16] text-white font-normal leading-[120%]'>Enhance platform features.</p>
                         </div>
