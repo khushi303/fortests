@@ -6,7 +6,7 @@ const Utility = () => {
     return (
         <div className='lg:pt-[133px] lg:pb-[149px] md:py-[100px] sm:py-[60px] py-[44px] relative'>
             <div data-aos="zoom-in" className='container mx-auto xl:max-w-[1164px] xl:px-3 px-6 relative z-10'>
-                <h2 data-aos="zoom-in" className='text-[40px] font-normal text-black ff_dela text-center leading-[100%] mb-[16px]'>UTILITY</h2>
+                <h2 data-aos="zoom-in" className='sm:text-[40px] text-[35px]  font-normal text-black ff_dela text-center leading-[121%] mb-[16px]'>UTILITY</h2>
                 <p className='text-[16px] font-normal leading-[151%] text-black text-center mx-auto max-w-[728px] opacity-70'>Now, you might be wondering, what can I do with TROLLMP? Well, let me tell you, the possibilities are endless! You can use TROLLMP to vote on your favorite memes, tip your favorite creators, or even trade them on the open market. It's freedom, folks, freedom like you've never seen before!</p>
                 <div data-aos="zoom-in" className='max-w-[717px] mx-auto lg:mt-[70px] sm:mt-[44px] mt-[38px] relative'>
                     <div className='relative'>

@@ -127,7 +127,7 @@ const Tokenomics = () => {
                     </div>
                     <div data-aos="zoom-in" className='xl:w-[50%] w-full flex items-center xl:justify-end justify-center xl:mt-0 mt-[50px]'>
                         <div className='max-w-[501px] cursor-pointer bg-[#DF4741] group hover:bg-white transition-all duration-300 ease-linear w-full p-[20px] border border-solid border-[#FFFFFF80] rounded-[20px] shadow-[0px_5px_18px_0px_#00000061]'>
-                            <h3 className=' ff_dela sm:text-[40px] group-hover:text-[#DF4741] transition-all duration-300 ease-linear text-[30px] font-normal text-white leading-[100%] mb-[16px]'>Tokenomics</h3>
+                            <h3 className='ff_dela sm:text-[40px] group-hover:text-[#DF4741] transition-all duration-300 ease-linear text-[35px] font-normal text-white leading-[100%] mb-[16px]'>Tokenomics</h3>
                             <div>
                                 <div className='flex gap-1 items-center'>
                                     <p className='sm:max-w-[134px] group-hover:text-[#DF4741] transition-all duration-300 ease-linear max-w-[100px] w-full text-[16px] sm:text-[16px] font-normal leading-[153%] text-white'>Token Name:</p>

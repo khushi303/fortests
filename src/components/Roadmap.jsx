@@ -4,7 +4,7 @@ import { RoadmapArrow, Righttickroad, Roadmaparrow2 } from './Icons';
 const Roadmap = () => {
     return (
         <div id='Roadmap' className='lg:pt-[171px] lg:pb-[172px] pb-[135px] pt-[120px]'>
-            <h2 className='text-[40px] font-normal ff_dela text-center text-white leading-[122%] lg:mb-[137px] sm:mb-[60px] mb-[44px]'>Roadmap</h2>
+            <h2 className='sm:text-[40px] text-[35px] font-normal ff_dela text-center text-white leading-[122%] lg:mb-[137px] sm:mb-[60px] mb-[44px]'>Roadmap</h2>
             <div className='container mx-auto xl:max-w-[1164px] xl:px-3 px-6 relative'>
                 <div className='relative'>
                     <div className='flex flex-row flex-wrap relative justify-between lg:pl-0 md:pl-[260px] sm:pl-[160px] pl-[87px]'>
