@@ -1,14 +1,14 @@
 import React from 'react';
-import Circleimg from '../assets/images/png/circleimg.png';
-import Arrowimg from '../assets/images/png/fuelarr.png';
-import Arrowimgshadow from '../assets/images/png/fuelarrshadow.png';
-import Spaceimg from '../assets/images/png/spacearrow.png';
-import TomArrowimg from '../assets/images/png/tomarrow.png';
-import TomShadowimg from '../assets/images/png/tomshadow.png';
-import Poolarrowimg from '../assets/images/png/poolarrow.png';
-import Poolimgshadow from '../assets/images/png/poolimgshadow.png';
-import Marketarrow from '../assets/images/png/marketarrow.png';
-import Marketarrowshadow from '../assets/images/png/marketshadow.png';
+import Circleimg from '../assets/images/webp/circleimg.webp';
+import Arrowimg from '../assets/images/webp/fuelarr.webp';
+import Arrowimgshadow from '../assets/images/webp/fuelarrshadow.webp';
+import Spaceimg from '../assets/images/webp/spacearrow.webp';
+import TomArrowimg from '../assets/images/webp/tomarrow.webp';
+import TomShadowimg from '../assets/images/webp/tomshadow.webp';
+import Poolarrowimg from '../assets/images/webp/poolarrow.webp';
+import Poolimgshadow from '../assets/images/webp/poolimgshadow.webp';
+import Marketarrow from '../assets/images/webp/marketarrow.webp';
+import Marketarrowshadow from '../assets/images/webp/marketshadow.webp';
 
 const Tokenomics = () => {
     return (

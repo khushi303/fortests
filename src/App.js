@@ -8,7 +8,7 @@ import Roadmap from './components/Roadmap';
 import Ecosystem from './components/Ecosystem';
 import Conclusion from './components/Conclusion';
 import Footer from './components/Footer';
-import BackToTop from './assets/images/png/Backarrow.png';
+import BackToTop from './assets/images/webp/Backarrow.webp';
 import { useState, useEffect } from 'react';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
@@ -66,20 +66,20 @@ function App() {
 
         ) : (
           <div>
-            <div className="bg-[url('./assets/images/png/redbgheader.png')] lg:bg-FullSize bg-cover bg-right pt-[20px]">
+            <div className="bg-[url('./assets/images/webp/redbgheader.webp')] lg:bg-FullSize bg-cover bg-right pt-[20px]">
               <NavBar />
               <Header />
             </div>
             <About />
-            <div className="bg-[url('./assets/images/png/bgtoken.png')] lg:bg-FullSize bg-cover bg-left">
+            <div className="bg-[url('./assets/images/webp/bgtoken.webp')] lg:bg-FullSize bg-cover bg-left">
               <Tokenomics />
             </div>
             <Utility />
-            <div className="bg-[url('./assets/images/png/roadmapbgblue.png')] lg:bg-FullSize bg-cover bg-left">
+            <div className="bg-[url('./assets/images/webp/roadmapbgblue.webp')] lg:bg-FullSize bg-cover bg-left">
               <Roadmap />
             </div>
             <Ecosystem />
-            <div className="bg-[url('./assets/images/png/bgblueconclusion.png')] relative z-[3] lg:bg-FullSize bg-cover bg-left lg:translate-y-[140px] sm:translate-y-[60px] translate-y-[80px]">
+            <div className="bg-[url('./assets/images/webp/bgblueconclusion.webp')] relative z-[3] lg:bg-FullSize bg-cover bg-left lg:translate-y-[140px] sm:translate-y-[60px] translate-y-[80px]">
               <Conclusion />
             </div>
             <Footer />

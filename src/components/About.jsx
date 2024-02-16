@@ -1,5 +1,5 @@
 import React from 'react'
-import Trumpimg from '../assets/images/png/trumpimg.png';
+import Trumpimg from '../assets/images/webp/trumpimg.webp';
 import { RightTick } from './Icons';
 
 const About = () => {

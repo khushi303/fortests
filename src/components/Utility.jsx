@@ -1,6 +1,6 @@
 import React from 'react'
-import Utilityimg2 from '../assets/images/png/utilityimg2.png'
-import Utilityimg1 from '../assets/images/png/utilityimg1.png'
+import Utilityimg2 from '../assets/images/webp/utilityimg2.webp'
+import Utilityimg1 from '../assets/images/webp/utilityimg1.webp'
 
 const Utility = () => {
     return (

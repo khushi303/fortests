@@ -1,8 +1,8 @@
 import React from 'react';
-import Card1 from '../assets/images/png/ecocard1.png'
-import Card2 from '../assets/images/png/ecocardimg2.png'
-import Card3 from '../assets/images/png/ecocard3.png'
-import Card4 from '../assets/images/png/ecocard4.png'
+import Card1 from '../assets/images/webp/ecocard1.webp'
+import Card2 from '../assets/images/webp/ecocardimg2.webp'
+import Card3 from '../assets/images/webp/ecocard3.webp'
+import Card4 from '../assets/images/webp/ecocard4.webp'
 
 const Ecosystem = () => {
     return (

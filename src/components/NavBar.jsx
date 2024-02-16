@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import Logo from '../assets/images/png/logoimg.png';
+import Logo from '../assets/images/webp/logoimg.webp';
 
 const NavBar = () => {
     const [nav, setNav] = useState(true)

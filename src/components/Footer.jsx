@@ -1,5 +1,5 @@
 import React from 'react'
-import Footerlogo from '../assets/images/png/footerlogo.png'
+import Footerlogo from '../assets/images/webp/footerlogo.webp'
 import { FootFacebook, FootDiscord, FootTelegram } from './Icons'
 
 const Footer = () => {

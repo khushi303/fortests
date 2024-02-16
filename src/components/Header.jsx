@@ -1,6 +1,6 @@
 import React from 'react'
 import { Tweeter, Discord, Telegram } from './Icons';
-import Headerimg1 from '../assets/images/png/bgheader.png';
+import Headerimg1 from '../assets/images/webp/bgheader.webp';
 
 const Header = () => {
     return (
